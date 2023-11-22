@@ -6,7 +6,7 @@
 .navbar {
     width: 100%;
     height: 130px;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 .navbar1 {
     width: 100%;
@@ -85,7 +85,7 @@
     width: 100%;
     height: 85px;
     background-color: black;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .navbar7 {
     width: 95%;
@@ -97,7 +97,7 @@
 .navbar8 {
     width: 70%;
     height: 85px;
-    border: 1px solid green;
+    /* border: 1px solid green; */
     display: flex;
     justify-content: space-between;
 }
@@ -155,4 +155,31 @@
     color: white;
     margin-top: 30px;
     font-size: 18px;
+}
+.navbar9 {
+    width: 19%;
+    /* border: 1px solid red; */
+}
+.navbar10 {
+    display: flex;
+    margin-top: 25px;
+}
+.navbar10 > p {
+    color: white;
+}
+.navbar10 > input {
+    background-color: black;
+    border: none;
+    outline: none;
+    margin-left: 5px;
+    color: white;
+    font-size: 16px;
+}
+.navbar10 > i {
+    font-size: 18px;
+    margin-left: 8px;
+}
+.navbar11 {
+    border: 1px solid white;
+    margin-top: 8px;
 }

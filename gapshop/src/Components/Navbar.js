@@ -44,7 +44,15 @@ function Navbar() {
               <p>SALE</p>
               <p>THE GIFT SHOP</p>
             </div>
-            <div className='navbar9'></div>
+            <div className='navbar9'>
+              <div className='navbar10'>
+                <p>Search:</p>
+                <input placeholder='Mens'/>
+                <i class="fa-solid fa-circle-pause" style={{color: "#e5e7eb"}}></i>
+                <i class="fa-solid fa-magnifying-glass" style={{color: "#f5f5f5"}}></i>
+              </div>
+              <div className='navbar11'></div>
+            </div>
           </div>
         </div>
     </div>

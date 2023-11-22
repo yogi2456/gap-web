@@ -1,0 +1,98 @@
+.home {
+    width: 100%;
+    /* height: 2000px; */
+    background-color: black;
+}
+.home1 {
+    width: 95%;
+    margin: auto;
+    /* height: 2000px; */
+    /* border: 1px solid red; */
+}
+.home2 > P:nth-child(1) {
+    font-size: 35px;
+    color: rgb(214, 210, 210);
+    padding-top: 40px;
+    margin-left: 10px;
+}
+.home2 > p:nth-child(2) {
+    font-size: 120px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.home2 > p:nth-child(3) {
+    font-size: 16px;
+    color: white;
+    margin-left: 10px;
+}
+.home3 {
+    margin-left: 10px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 65%;
+}
+.home3 > button:nth-child(1) {
+    width: 80px;
+    height: 40px;
+    font-size: 16px;
+}
+.home3 > button:nth-child(2) {
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+}
+.home3 > button:nth-child(3) {
+    width: 60px;
+    height: 40px;
+    font-size: 16px;
+}
+.home3 > button:nth-child(4) {
+    width: 60px;
+    height: 40px;
+    font-size: 16px;
+}
+.home3 > button:nth-child(5) {
+    width: 60px;
+    height: 40px;
+    font-size: 16px;
+}
+.home3 > button:nth-child(6) {
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+}
+.home3 > button:nth-child(7) {
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+}
+.home3 > button:nth-child(8) {
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+}
+.home3 > button:nth-child(9) {
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+}
+.home4 {
+    margin-top: 80px;
+    margin-left: 10px;
+}
+.home4 > p:nth-child(1) {
+    font-size: 50px;
+    color: white;
+}
+.home4 > p:nth-child(2) {
+    font-size: 16px;
+    color: white;
+}
+.home5 > h1 {
+    font-size: 20px;
+    color: white;
+    margin-top: 70px;
+    margin-left: 160px;
+}
