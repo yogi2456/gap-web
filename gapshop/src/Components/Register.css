@@ -1,0 +1,85 @@
+.register {
+    width: 100%;
+    height: 700px;
+    background-color: white;
+}
+.register1 {
+    width: 30%;
+    margin: auto;
+    height: 600px;
+    margin-top: 80px;
+    border: 1px solid gray;
+}
+.register2 {
+    width: 85%;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+.register2 > h2 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 50px;
+    text-align: center;
+}
+.register2 > p {
+    margin-top: 15px;
+    font-size: 18px;
+    text-align: center;
+}
+.register3 {
+    width: 100%;
+    height: 60px;
+    margin-top: 30px;
+    font-size: 22px;
+    padding-left: 10px;
+}
+.register4 {
+    width: 100%;
+    height: 60px;
+    margin-top: 30px;
+    font-size: 22px;
+    padding-left: 10px;
+}
+.register5 {
+    width: 100%;
+    height: 60px;
+    margin-top: 30px;
+    font-size: 22px;
+    padding-left: 10px;
+}
+.register6 {
+    width: 100%;
+    height: 60px;
+    margin-top: 30px;
+    font-size: 22px;
+    padding-left: 10px;
+}
+.register10 {
+    width: 80px;
+    height: 40px;
+    background-color: #1A73E8;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 16px;
+    margin-left: 80%;
+    margin-top: 30px;
+}
+.register7 {
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-top: 10px;
+}
+.register8 {
+    width: 44%;
+    display: flex;
+    justify-content: space-between;
+}
+.register9 {
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+}
